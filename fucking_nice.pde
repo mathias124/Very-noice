@@ -23,4 +23,4 @@ for(int count = 0; count <terning.length;count=count+1)//her counter then antal 
 printArray(terning);// en anden version af println borset fra at den laver coloner-ish, så man kan se det i flere tal på en gang i consolen.
 println();// printer i consolen.
 }
-}//note kunne ikke fikse hvorfor søjlerne "stackede" ovenpå hinaden.
+}
